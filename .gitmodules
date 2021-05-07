@@ -1,0 +1,4 @@
+[submodule "themes/internet-weblog"]
+	path = themes/internet-weblog
+	url = git@github.com:jnjosh/internet-weblog.git
+	branch = master
