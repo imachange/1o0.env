@@ -1,7 +1,7 @@
 #!/bin/bash
 
 dir="content/"
-section="log/"
+section="status/"
 
 cd $(cd $(dirname $0); pwd)
 now=$(date '+%Y-%m-%dT%H%M%S')
